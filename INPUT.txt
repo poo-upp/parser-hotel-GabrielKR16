@@ -1,0 +1,12 @@
+-Nombre del cliente
+Andres Lopéz
+
+correo 	andlops@dmail.com
+
+numero de noches     3
+fecha inicio    07-07-2025
+
+----Habitaciones-----
+habitacion doble
+suite
+----Habitaciones-----
